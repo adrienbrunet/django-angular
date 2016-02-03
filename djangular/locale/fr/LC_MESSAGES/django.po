@@ -22,8 +22,8 @@ msgstr ""
 #, python-format
 msgid "Ensure this value has at least %(limit_value)d character"
 msgid_plural "Ensure this value has at least %(limit_value)d characters"
-msgstr[0] "Assurez que cette valeur comporte au moins %(limit_value)d caractère"
-msgstr[1] "Assurez que cette valeur comporte au moins %(limit_value)d caractères"
+msgstr[0] "Assurez vous que cette valeur comporte au moins %(limit_value)d caractère"
+msgstr[1] "Assurez vous que cette valeur comporte au moins %(limit_value)d caractères"
 
 #: forms/field_mixins.py:41
 #, python-format
